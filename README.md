@@ -1,9 +1,9 @@
 ### Olá ! Mundo 
 
-<div>
+<div align="center">
   <a href="https://github.com/SmokeBr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smokebr&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smokebr&layout=demo)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smokebr&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 
