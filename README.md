@@ -5,12 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smokebr&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smokebr&layout=compact&langs_count=7&theme=dracula" />
 </div>
-
-
-
-
-## Tecnologias que eu uso: ##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -21,11 +15,7 @@
   </div>
 <br>
 
-## S.O:
-<div style="display: inline_block"><br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</div>
-<br>
 
-## Contato: ##
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javascript_python/?hl=pt-br)
