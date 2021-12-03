@@ -1,8 +1,13 @@
 ### Olá ! Mundo 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SmokeBr&show_icons=true&theme=synthwave)
+<div>
+  <a href="https://github.com/SmokeBr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smokebr&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smokebr&layout=demo)](https://github.com/anuraghazra/github-readme-stats" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmokeBr&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Tecnologias que eu uso: ##
 
